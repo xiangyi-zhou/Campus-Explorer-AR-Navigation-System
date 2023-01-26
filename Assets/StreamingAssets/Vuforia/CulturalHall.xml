@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="img_morse" size="800.000000 564.705872" />
+    <ImageTarget name="laite" size="800.000000 464.027527" />
+    <ImageTarget name="lishizhen" size="800.000000 1221.524658" />
+    <ImageTarget name="img_zhenzhiji" size="800.000000 1217.821777" />
+  </Tracking>
+</QCARConfig>
