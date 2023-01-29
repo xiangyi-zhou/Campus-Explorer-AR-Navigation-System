@@ -3,13 +3,18 @@ An AR-based navigation system for campus exploration using Unity and C#. Utilize
 
 ## Screenshots
 ### Feature 1: Navigation in campus
-<img src="images/navigation-1.jpg" style="width:20%;" >|<img src="images/navigation-2.jpg" style="width:20%;">|<img src="images/navigation-3.jpg" style="width:20%;">|<img src="images/navigation-outdoor1.jpg" style="width:20%;">|<img src="images/navigation-outdoor2.jpg" style="width:20%;">
+<div style="display: flex; height: 300px;">
+  <img src="images/navigation-1.jpg" style="width: 20%; object-fit: cover;">|<img src="images/navigation-2.jpg" style="width: 20%; object-fit: cover;">|<img src="images/navigation-3.jpg" style="width: 20%; object-fit: cover;">|<img src="images/navigation-outdoor1.png" style="width: 20%; object-fit: cover;">|<img src="images/navigation-outdoor2.png" style="width: 20%; object-fit: cover;">
+
+</div>
 
 ### Feature 2: Points of Interest(POI) display
-<img src="images/poi-display-1.jpg" style="width:25%;" >
+<img src="images/poi-display-1.png" style="width:25%;" >
 
 ### Feature 3: Augmented reality(AR) recognition 
-<img src="images/ar-recognition-picture.jpg" style="width:25%;" >|<img src="images/ar-recognition-video.jpg" style="width:25%;">|<img src="images/ar-recognition-video2.jpg" style="width:25%;">
+<div style="display: flex; height: 400px;">
+  <img src="images/ar-recognition-picture.png" style="width: 23%; object-fit: cover;">|<img src="images/ar-recognition-video.png" style="width: 23%; object-fit: cover;">|<img src="images/ar-recognition-video2.png" style="width: 23%; object-fit: cover;">
+</div>
 
 ## Features
 Feature 1: Navigation in campus
