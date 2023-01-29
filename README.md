@@ -3,10 +3,11 @@ An AR-based navigation system for campus exploration using Unity and C#. Utilize
 
 ## Screenshots
 ### Feature 1: Navigation in campus
+<img src="images/navigation-1.jpg" style="width:25%;" alt="navigation-1" title="navigation-1">|<img src="images/navigation-2.jpg" style="width:25%;" alt="navigation-2" title="navigation-2">|<img src="images/navigation-3.jpg" style="width:25%;" alt="navigation-3" title="navigation-3">
 
-<img src="images/navigation-1.jpg" style="width:25%;">
-<img src="images/navigation-2.jpg" style="width:25%;">
-<img src="images/navigation-3.jpg" style="width:25%;">
+### Feature 2: Points of Interest(POI) display
+
+### Feature 3: Augmented reality(AR) recognition 
 
 ## Features
 Feature 1: Navigation in campus
