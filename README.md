@@ -2,19 +2,18 @@
 An AR-based navigation system for campus exploration using Unity and C#. Utilized the Vufouria plugin to manage images and implement AR image recognition.
 
 ## Screenshots
-### Feature 1: Navigation in campus
-<div style="display: flex; height: 300px;">
-  <img src="images/navigation-1.jpg" style="width: 20%; object-fit: cover;">|<img src="images/navigation-2.jpg" style="width: 20%; object-fit: cover;">|<img src="images/navigation-3.jpg" style="width: 20%; object-fit: cover;">|<img src="images/navigation-outdoor1.png" style="width: 20%; object-fit: cover;">|<img src="images/navigation-outdoor2.png" style="width: 20%; object-fit: cover;">
 
-</div>
+### Feature 1: Navigation in campus
+  <img src="images/navigation-1.jpg" style="width: 20%">|<img src="images/navigation-2.jpg" style="width: 20%">|<img src="images/navigation-3.jpg" style="width: 20%">
+
+  <img src="images/navigation-outdoor1.png" style="width: 25%" height=300px>|<img src="images/navigation-outdoor2.png" style="width: 25%" height=300px>
 
 ### Feature 2: Points of Interest(POI) display
 <img src="images/poi-display-1.png" style="width:25%;" >
 
 ### Feature 3: Augmented reality(AR) recognition 
-<div style="display: flex; height: 400px;">
-  <img src="images/ar-recognition-picture.png" style="width: 23%; object-fit: cover;">|<img src="images/ar-recognition-video.png" style="width: 23%; object-fit: cover;">|<img src="images/ar-recognition-video2.png" style="width: 23%; object-fit: cover;">
-</div>
+<img src="images/ar-recognition-picture.png" style="width: 25%" height=350px>|<img src="images/ar-recognition-video.png" style="width: 25%" height=350px>|<img src="images/ar-recognition-video2.png" style="width: 25%;" height=350px>
+
 
 ## Features
 Feature 1: Navigation in campus
