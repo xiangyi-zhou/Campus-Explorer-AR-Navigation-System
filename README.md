@@ -4,7 +4,9 @@ An AR-based navigation system for campus exploration using Unity and C#. Utilize
 ## Screenshots
 ### Feature 1: Navigation in campus
 
-![navigation-1](navigation-1.jpg) ![navigation-2](navigation-2.jpg) ![navigation-3](navigation-3.jpg)
+<img src="images/navigation-1.jpg" style="width:25%;">
+<img src="images/navigation-2.jpg" style="width:25%;">
+<img src="images/navigation-3.jpg" style="width:25%;">
 
 ## Features
 Feature 1: Navigation in campus
@@ -23,4 +25,6 @@ Waiting for update.
 ## Authors
 Xiangyi Zhou - https://github.com/xiangyi-zhou
 ## License
-This project is licensed under the [License] - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
