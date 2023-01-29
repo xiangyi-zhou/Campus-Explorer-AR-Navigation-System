@@ -1,13 +1,15 @@
-# Project Name
+# Campus Explorer AR Navigation System
 An AR-based navigation system for campus exploration using Unity and C#. Utilized the Vufouria plugin to manage images and implement AR image recognition.
 
 ## Screenshots
 ### Feature 1: Navigation in campus
-<img src="images/navigation-1.jpg" style="width:25%;" alt="navigation-1" title="navigation-1">|<img src="images/navigation-2.jpg" style="width:25%;" alt="navigation-2" title="navigation-2">|<img src="images/navigation-3.jpg" style="width:25%;" alt="navigation-3" title="navigation-3">
+<img src="images/navigation-1.jpg" style="width:20%;" >|<img src="images/navigation-2.jpg" style="width:20%;">|<img src="images/navigation-3.jpg" style="width:20%;">|<img src="images/navigation-outdoor1.jpg" style="width:20%;">|<img src="images/navigation-outdoor2.jpg" style="width:20%;">
 
 ### Feature 2: Points of Interest(POI) display
+<img src="images/poi-display-1.jpg" style="width:25%;" >
 
 ### Feature 3: Augmented reality(AR) recognition 
+<img src="images/ar-recognition-picture.jpg" style="width:25%;" >|<img src="images/ar-recognition-video.jpg" style="width:25%;">|<img src="images/ar-recognition-video2.jpg" style="width:25%;">
 
 ## Features
 Feature 1: Navigation in campus
@@ -17,7 +19,7 @@ Feature 2: Points of Interest(POI) display
 Feature 3: Augmented reality(AR) recognition 
 
 ## Getting Started
-Waiting for update.
+Waiting for the update
 
 ## Built With
 **Unity** - Unity is a game engine for building 2D and 3D games and interactive content. It provides tools for design, development and asset management, and supports multiple platforms.
